@@ -12,7 +12,6 @@ my_name = "Jose Guerra"
 
 print(my_name)
 
-
 var = 1
 account_balance = 1000.0
 client_name = 'Jose Guerra'
