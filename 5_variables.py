@@ -39,3 +39,5 @@ print(f"cateto opuesto = {co}, cateto adyacente = {ca}, hipotenusa = {h}")
 print("Imprimir resultados alineados tipo tabla\n")
 
 print(f"{'Cateto opuesto':<20} = {co:>8.2f}")
+
+
