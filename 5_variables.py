@@ -10,7 +10,6 @@ print("Muejkej")
 
 my_name = "Jose Guerra"
 
-
 print(my_name)
 
 var = 1
