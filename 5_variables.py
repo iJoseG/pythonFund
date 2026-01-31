@@ -21,6 +21,7 @@ print(var, account_balance, my_name)
 var = "3.14.2"
 print("Python version: " + var)
 
+
 var = 1
 print("\n", var, end = " ", sep = "")
 var = var + 2
